@@ -1,7 +1,6 @@
 #제외 항록
 
 #폴더
-/src/test/**
 .settings
 target
 
