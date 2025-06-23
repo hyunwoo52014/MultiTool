@@ -9,5 +9,6 @@ target
 logs
 .project
 .classpath
+application-*.properties
 
 #포함 항목
